@@ -1,0 +1,216 @@
+matrix size 500,processor 4
+the total compute time is 0.657544
+the total time is 0.857988
+matrix size 500,processor 6
+the total compute time is 0.518064
+the total time is 0.703635
+matrix size 500,processor 8
+the total compute time is 0.964978
+the total time is 1.201265
+matrix size 500,processor 10
+the total compute time is 0.841014
+the total time is 1.108116
+matrix size 500,processor 12
+the total compute time is 0.932916
+the total time is 1.231938
+matrix size 500,processor 14
+the total compute time is 1.132987
+the total time is 1.422072
+matrix size 500,processor 16
+the total compute time is 1.100936
+the total time is 1.393279
+matrix size 500,processor 18
+the total compute time is 1.189140
+the total time is 1.538101
+matrix size 500,processor 20
+the total compute time is 1.389888
+the total time is 1.739383
+matrix size 1000,processor 4
+the total compute time is 4.194370
+the total time is 4.400813
+matrix size 1000,processor 6
+the total compute time is 3.382277
+the total time is 3.581331
+matrix size 1000,processor 8
+the total compute time is 4.692425
+the total time is 4.935383
+matrix size 1000,processor 10
+the total compute time is 4.300060
+the total time is 4.584562
+matrix size 1000,processor 12
+the total compute time is 4.328306
+the total time is 4.642751
+matrix size 1000,processor 14
+the total compute time is 5.488113
+the total time is 5.821756
+matrix size 1000,processor 16
+the total compute time is 5.820380
+the total time is 6.127547
+matrix size 1000,processor 18
+the total compute time is 6.196528
+the total time is 6.525075
+matrix size 1000,processor 20
+the total compute time is 6.936384
+the total time is 7.326394
+matrix size 1500,processor 4
+the total compute time is 16.405986
+the total time is 16.612305
+matrix size 1500,processor 6
+the total compute time is 10.975483
+the total time is 11.176679
+matrix size 1500,processor 8
+the total compute time is 13.142492
+the total time is 13.379445
+matrix size 1500,processor 10
+the total compute time is 11.515849
+the total time is 11.840164
+matrix size 1500,processor 12
+the total compute time is 11.482609
+the total time is 11.815020
+matrix size 1500,processor 14
+the total compute time is 13.118696
+the total time is 13.441354
+matrix size 1500,processor 16
+the total compute time is 13.695529
+the total time is 14.040639
+matrix size 1500,processor 18
+the total compute time is 14.310746
+the total time is 14.719831
+matrix size 1500,processor 20
+the total compute time is 16.311535
+the total time is 16.768139
+matrix size 2000,processor 4
+the total compute time is 32.650638
+the total time is 32.866889
+matrix size 2000,processor 6
+the total compute time is 21.638603
+the total time is 21.876008
+matrix size 2000,processor 8
+the total compute time is 24.043147
+the total time is 24.381670
+matrix size 2000,processor 10
+the total compute time is 22.678001
+the total time is 23.046411
+matrix size 2000,processor 12
+the total compute time is 21.232728
+the total time is 21.589012
+matrix size 2000,processor 14
+the total compute time is 24.578838
+the total time is 24.972810
+matrix size 2000,processor 16
+the total compute time is 24.557191
+the total time is 24.959155
+matrix size 2000,processor 18
+the total compute time is 24.820884
+the total time is 25.267935
+matrix size 2000,processor 20
+the total compute time is 27.673864
+the total time is 28.169028
+matrix size 2500,processor 4
+the total compute time is 71.169166
+the total time is 71.413082
+matrix size 2500,processor 6
+the total compute time is 45.975867
+the total time is 46.229742
+matrix size 2500,processor 8
+the total compute time is 48.002028
+the total time is 48.385074
+matrix size 2500,processor 10
+the total compute time is 45.350485
+the total time is 45.750453
+matrix size 2500,processor 12
+the total compute time is 41.832146
+the total time is 42.193421
+matrix size 2500,processor 14
+the total compute time is 50.920871
+the total time is 51.378383
+matrix size 2500,processor 16
+the total compute time is 47.072460
+the total time is 47.548205
+matrix size 2500,processor 18
+the total compute time is 47.120312
+the total time is 47.654851
+matrix size 2500,processor 20
+the total compute time is 52.239851
+the total time is 52.767410
+matrix size 3000,processor 4
+the total compute time is 117.871572
+the total time is 118.144472
+matrix size 3000,processor 6
+the total compute time is 76.119371
+the total time is 76.400446
+matrix size 3000,processor 8
+the total compute time is 75.090899
+the total time is 75.479580
+matrix size 3000,processor 10
+the total compute time is 74.426155
+the total time is 74.892754
+matrix size 3000,processor 12
+the total compute time is 67.165293
+the total time is 67.621269
+matrix size 3000,processor 14
+the total compute time is 77.261188
+the total time is 77.777461
+matrix size 3000,processor 16
+the total compute time is 76.110280
+the total time is 76.639351
+matrix size 3000,processor 18
+the total compute time is 72.970768
+the total time is 73.634706
+matrix size 3000,processor 20
+the total compute time is 81.152445
+the total time is 81.826310
+matrix size 3500,processor 4
+the total compute time is 189.533214
+the total time is 189.852006
+matrix size 3500,processor 6
+the total compute time is 121.390190
+the total time is 121.712106
+matrix size 3500,processor 8
+the total compute time is 112.880986
+the total time is 113.227342
+matrix size 3500,processor 10
+the total compute time is 115.556565
+the total time is 116.060115
+matrix size 3500,processor 12
+the total compute time is 103.592542
+the total time is 104.136219
+matrix size 3500,processor 14
+the total compute time is 114.935840
+the total time is 115.516086
+matrix size 3500,processor 16
+the total compute time is 116.196532
+the total time is 116.875006
+matrix size 3500,processor 18
+the total compute time is 110.947809
+the total time is 111.616663
+matrix size 3500,processor 20
+the total compute time is 123.028269
+the total time is 123.765050
+matrix size 4000,processor 4
+the total compute time is 243.687286
+the total time is 244.030285
+matrix size 4000,processor 6
+the total compute time is 156.644256
+the total time is 156.991214
+matrix size 4000,processor 8
+the total compute time is 140.145783
+the total time is 140.652293
+matrix size 4000,processor 10
+the total compute time is 147.677563
+the total time is 148.255212
+matrix size 4000,processor 12
+the total compute time is 131.794025
+the total time is 132.392946
+matrix size 4000,processor 14
+the total compute time is 145.237854
+the total time is 145.918289
+matrix size 4000,processor 16
+the total compute time is 149.726742
+the total time is 150.536172
+matrix size 4000,processor 18
+the total compute time is 143.409338
+the total time is 144.199105
+matrix size 4000,processor 20
+the total compute time is 165.052741
+the total time is 165.930845

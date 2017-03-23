@@ -1,0 +1,216 @@
+test martix size 500 processor 4------------------------------->
+the total compute time is 0.771346 
+the total time is 0.944694         
+test martix size 500 processor 6------------------------------->
+the total compute time is 0.633462 
+the total time is 0.824686         
+test martix size 500 processor 8------------------------------->
+the total compute time is 1.004014 
+the total time is 1.222888         
+test martix size 500 processor 10------------------------------->
+the total compute time is 0.913578 
+the total time is 1.165454         
+test martix size 500 processor 12------------------------------->
+the total compute time is 1.005178 
+the total time is 1.294649         
+test martix size 500 processor 14------------------------------->
+the total compute time is 1.176627 
+the total time is 1.463149         
+test martix size 500 processor 16------------------------------->
+the total compute time is 1.226988 
+the total time is 1.525508         
+test martix size 500 processor 18------------------------------->
+the total compute time is 1.331944 
+the total time is 1.655252         
+test martix size 500 processor 20------------------------------->
+the total compute time is 1.389889 
+the total time is 1.753199         
+test martix size 1000 processor 4------------------------------->
+the total compute time is 5.925349 
+the total time is 6.121405         
+test martix size 1000 processor 6------------------------------->
+the total compute time is 4.752173 
+the total time is 4.952424         
+test martix size 1000 processor 8------------------------------->
+the total compute time is 6.726952 
+the total time is 6.974869         
+test martix size 1000 processor 10------------------------------->
+the total compute time is 6.238199 
+the total time is 6.480028         
+test martix size 1000 processor 12------------------------------->
+the total compute time is 6.268750 
+the total time is 6.574581         
+test martix size 1000 processor 14------------------------------->
+the total compute time is 8.080405 
+the total time is 8.434095         
+test martix size 1000 processor 16------------------------------->
+the total compute time is 7.670789 
+the total time is 7.989514         
+test martix size 1000 processor 18------------------------------->
+the total compute time is 7.840048 
+the total time is 8.213196         
+test martix size 1000 processor 20------------------------------->
+the total compute time is 8.560378 
+the total time is 8.935291         
+test martix size 1500 processor 4------------------------------->
+the total compute time is 21.499350 
+the total time is 21.712349         
+test martix size 1500 processor 6------------------------------->
+the total compute time is 15.449343 
+the total time is 15.659287         
+test martix size 1500 processor 8------------------------------->
+the total compute time is 16.830136 
+the total time is 17.115738         
+test martix size 1500 processor 10------------------------------->
+the total compute time is 18.820968 
+the total time is 19.150591         
+test martix size 1500 processor 12------------------------------->
+the total compute time is 17.131267 
+the total time is 17.465072         
+test martix size 1500 processor 14------------------------------->
+the total compute time is 19.645140 
+the total time is 20.014173         
+test martix size 1500 processor 16------------------------------->
+the total compute time is 20.694975 
+the total time is 21.070710         
+test martix size 1500 processor 18------------------------------->
+the total compute time is 19.688306 
+the total time is 20.049487         
+test martix size 1500 processor 20------------------------------->
+the total compute time is 22.707301 
+the total time is 23.089541         
+test martix size 2000 processor 4------------------------------->
+the total compute time is 43.263935 
+the total time is 43.508071         
+test martix size 2000 processor 6------------------------------->
+the total compute time is 31.123747 
+the total time is 31.366395         
+test martix size 2000 processor 8------------------------------->
+the total compute time is 32.944471 
+the total time is 33.260775         
+test martix size 2000 processor 10------------------------------->
+the total compute time is 35.296892 
+the total time is 35.674627         
+test martix size 2000 processor 12------------------------------->
+the total compute time is 33.919286 
+the total time is 34.273372         
+test martix size 2000 processor 14------------------------------->
+the total compute time is 38.477365 
+the total time is 38.879644         
+test martix size 2000 processor 16------------------------------->
+the total compute time is 38.435229 
+the total time is 38.862879         
+test martix size 2000 processor 18------------------------------->
+the total compute time is 37.590863 
+the total time is 38.058083         
+test martix size 2000 processor 20------------------------------->
+the total compute time is 40.188945 
+the total time is 40.675041         
+test martix size 2500 processor 4------------------------------->
+the total compute time is 93.330243 
+the total time is 93.594476         
+test martix size 2500 processor 6------------------------------->
+the total compute time is 65.648668 
+the total time is 65.920364         
+test martix size 2500 processor 8------------------------------->
+the total compute time is 69.252331 
+the total time is 69.567972         
+test martix size 2500 processor 10------------------------------->
+the total compute time is 73.871995 
+the total time is 74.315906         
+test martix size 2500 processor 12------------------------------->
+the total compute time is 67.167568 
+the total time is 67.609121         
+test martix size 2500 processor 14------------------------------->
+the total compute time is 76.344414 
+the total time is 76.845991         
+test martix size 2500 processor 16------------------------------->
+the total compute time is 77.406165 
+the total time is 77.824666         
+test martix size 2500 processor 18------------------------------->
+the total compute time is 75.793809 
+the total time is 76.341191         
+test martix size 2500 processor 20------------------------------->
+the total compute time is 81.009670 
+the total time is 81.593439         
+test martix size 3000 processor 4------------------------------->
+the total compute time is 157.334076 
+the total time is 157.661449         
+test martix size 3000 processor 6------------------------------->
+the total compute time is 110.656705 
+the total time is 110.979851         
+test martix size 3000 processor 8------------------------------->
+the total compute time is 117.815714 
+the total time is 118.202394         
+test martix size 3000 processor 10------------------------------->
+the total compute time is 123.746673 
+the total time is 124.170374         
+test martix size 3000 processor 12------------------------------->
+the total compute time is 110.481100 
+the total time is 111.000517         
+test martix size 3000 processor 14------------------------------->
+the total compute time is 126.055456 
+the total time is 126.556779         
+test martix size 3000 processor 16------------------------------->
+the total compute time is 129.217050 
+the total time is 129.872838         
+test martix size 3000 processor 18------------------------------->
+the total compute time is 122.279844 
+the total time is 122.949713         
+test martix size 3000 processor 20------------------------------->
+the total compute time is 129.323659 
+the total time is 129.985709         
+test martix size 3500 processor 4------------------------------->
+the total compute time is 250.173181 
+the total time is 250.537431         
+test martix size 3500 processor 6------------------------------->
+the total compute time is 173.555250 
+the total time is 173.917325         
+test martix size 3500 processor 8------------------------------->
+the total compute time is 180.400747 
+the total time is 181.021793         
+test martix size 3500 processor 10------------------------------->
+the total compute time is 191.379887 
+the total time is 191.927050         
+test martix size 3500 processor 12------------------------------->
+the total compute time is 170.137509 
+the total time is 170.712726         
+test martix size 3500 processor 14------------------------------->
+the total compute time is 189.161824 
+the total time is 189.859372         
+test martix size 3500 processor 16------------------------------->
+the total compute time is 198.129158 
+the total time is 198.932804         
+test martix size 3500 processor 18------------------------------->
+the total compute time is 184.871436 
+the total time is 185.671553         
+test martix size 3500 processor 20------------------------------->
+the total compute time is 191.951034 
+the total time is 192.820053         
+test martix size 4000 processor 4------------------------------->
+the total compute time is 314.379223 
+the total time is 314.822459         
+test martix size 4000 processor 6------------------------------->
+the total compute time is 218.714350 
+the total time is 219.142542         
+test martix size 4000 processor 8------------------------------->
+the total compute time is 225.992556 
+the total time is 226.635650         
+test martix size 4000 processor 10------------------------------->
+the total compute time is 237.922623 
+the total time is 238.599084         
+test martix size 4000 processor 12------------------------------->
+the total compute time is 213.940118 
+the total time is 214.634702         
+test martix size 4000 processor 14------------------------------->
+the total compute time is 235.416394 
+the total time is 236.171357         
+test martix size 4000 processor 16------------------------------->
+the total compute time is 247.936566 
+the total time is 248.849413         
+test martix size 4000 processor 18------------------------------->
+the total compute time is 234.264907 
+the total time is 235.147860         
+test martix size 4000 processor 20------------------------------->
+the total compute time is 257.091069 
+the total time is 258.084942         
